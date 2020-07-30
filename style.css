@@ -21,3 +21,22 @@ body{
     padding-right: 2rem;
     color:rgb(58, 52, 52);
 }
+.application-boxes{
+    margin-top: 1rem;
+}
+.application-boxes i{
+    margin: 2rem 4rem;
+    color:rgb(42, 153, 218);
+}
+.application-boxes i img{
+    margin: 2rem 0;
+} 
+.application-boxes{
+    box-shadow: 5px 5px 10px rgb(182, 167, 162);
+    padding: 2rem;
+    padding-right: 4rem;
+}
+.application-text{
+    padding-top:3.5rem;
+    color:rgb(42, 153, 218);
+}
