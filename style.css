@@ -40,3 +40,14 @@ body{
     padding-top:3.5rem;
     color:rgb(42, 153, 218);
 }
+form{
+    /* margin-left: 24rem; */
+}
+.send-btn{
+    /* margin-left:10rem; */
+}
+#contact{
+    background-image: url("img/img2.jpg");
+    background-size: cover;
+    height:25rem;
+}
